@@ -1,1 +1,0 @@
-print('Ampogi ko')
